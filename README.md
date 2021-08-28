@@ -1,6 +1,6 @@
 # World-News-Integration-Union
-This is a web for global news integration with coresponding APIs.  
-The function of the web including user sign up and login, changing personal information, news' display, update and comment, and redirect to news source page.  
+This is a web for global news integration using coresponding APIs.  
+The function of the web including user sign up and login, changing personal information, news' display, update and comment, and redirect to news source page.  </br></br>
 <img width="544" alt="home page" src="images/home page.png">   
 This is the home page of the web which will direct the user to browse news categorized by country and area.    </br></br>
 <img width="544" alt="home page" src="images/sign up.png">  
